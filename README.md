@@ -121,17 +121,6 @@ Python application supporting:
 - Experience solving algorithmic and mathematical programming challenges
 - Focus on writing efficient and optimized solutions in C++
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jero2410&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jero2410&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
