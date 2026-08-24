@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jerome Nabil</h1>
 <h3 align="center">Software Developer | Backend Engineer | AI/ML Enthusiast | Computer Science student</h3>
 
-<p align="center">
-  <a href="https://github.com/jero2410">
-    <img src="https://komarev.com/ghpvc/?username=jero2410&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
