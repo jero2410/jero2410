@@ -68,47 +68,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🎮 Tic-Tac-Toe Collection
-Implemented multiple Tic-Tac-Toe variations using Object-Oriented Programming in C++.
-
-### 🖼️ Baby Photoshop
-Image processing application featuring 15 filters implemented in C++.
-
-### 🔐 Encryption Suite
-Implemented:
-- Route Cipher
-- Polybius Square Cipher
-- Encryption & Decryption Utilities
-
-### 🥤 Vending Machine Simulation
-Designed and implemented using OOP principles in C++.
-
-### 📊 Sorting System
-Generic C++ sorting framework supporting:
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
-- Shell Sort
-- Count Sort
-- Radix Sort
-- Bucket Sort
-
-### ➗ Fraction Calculator
-Calculator supporting arithmetic operations on fractions.
-
-### 🔢 Number System Converter
-Python application supporting:
-- Binary ↔ Decimal
-- Hexadecimal ↔ Binary
-- One's Complement
-- Two's Complement
-
----
-
 ## 🏆 Competitive Programming & Problem Solving
 
 - Strong background in Data Structures and Algorithms
